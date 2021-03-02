@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="icons/moveit.svg" />
+    <img alt="Move.it" title="Move.it" src="https://raw.githubusercontent.com/mfcbentes/moveit-next/ab48fde7584504e328d980e0840aee5e8eb995a7/public/icons/moveit.svg" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src="icons/icon.svg" width="120px">
+  <img alt="Moveit" src="https://raw.githubusercontent.com/mfcbentes/moveit-next/ab48fde7584504e328d980e0840aee5e8eb995a7/public/icons/icon.svg" width="120px">
 </p>
 
 ## 🧪 Technologies
