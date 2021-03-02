@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="/icons/moveit.svg" />
+    <img alt="Move.it" title="Move.it" src="icons/moveit.svg" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src="/icons/icon.svg" width="120px">
+  <img alt="Moveit" src="icons/icon.svg" width="120px">
 </p>
 
 ## 🧪 Technologies
