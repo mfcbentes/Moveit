@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,10 +31,6 @@ This project was developed using the following technologies:
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-
-## 🔥 Preview
-
-[![Deploy with Vercel](https://vercel.com/button)](https://move-it-ruby-one.vercel.app/)
 
 ## 🚀 Getting started
 
